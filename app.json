@@ -1,15 +1,18 @@
 {
-    "name": "Self Bot",
-    "description": "A simple bot to manage your account.",
+    "name": "chat Bot",
+    "description": "A simple chat bot.",
     "keywords": [
-        "Self",
+        "Chat",
         "Bot",
         "Telegra."
     ],
     "website": "#TODO",
-    "repository": "https://github.com/CipherXOPS/Php-self-bot",
+    "repository": "https://github.com/iaranian-pelikan/robot/",
     "success_url": "/",
     "env": {
+        "BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },
         "START_MESSAGE": {
             "description": "A start message for your bot."
         }
