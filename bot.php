@@ -1,10 +1,4 @@
 <?php
-/*
-کانال سورس خونه ! پر از سورس هاي ربات هاي تلگرامي !
-لطفا در کانال ما عضو شويد 
-@source_home
-https://t.me/source_home
-*/
 	define('BOT_TOKEN', 'wDoIYTvHfyalnCm8nw5w');
 	define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 	
@@ -1158,10 +1152,4 @@ https://t.me/source_home
 		])
 		);
 	}
-/*
-کانال سورس خونه ! پر از سورس هاي ربات هاي تلگرامي !
-لطفا در کانال ما عضو شويد 
-@source_home
-https://t.me/source_home
-*/	
 ?>					
